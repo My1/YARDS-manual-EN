@@ -23,7 +23,7 @@ While controlling the system through your control device while doing the actual 
 
 It would be really nice if this system would spread as a new way to play Yu-Gi-Oh!. Please try it out!
 
-# Basic screen data
+# Basic Screen Explanation
 
 Fundamentally, there are 2 big sections of the client. The `Login Screen` and the `Home Screen`, with the Home Screen having 4 tabs.
 
