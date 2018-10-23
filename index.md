@@ -1,5 +1,3 @@
-# Yu-Gi-Oh! AR Dueling System (YARDS) - Manual
-
 ### Changelog
 * 22 Oct 2018 Starting steps.
 
