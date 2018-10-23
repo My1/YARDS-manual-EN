@@ -4,6 +4,7 @@
 
 ### Changelog
 * 22 Oct 2018 Starting steps.
+* 23/24 Oct 2014 Added [Basic Explanation of Screen Contents](#basic-screen-explanation)
 
 # Before We Start
 
